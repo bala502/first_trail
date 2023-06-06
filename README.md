@@ -1,5 +1,2 @@
 # first_trail
-
-tried w/d another repo
-
-goodni8
+new thing 
